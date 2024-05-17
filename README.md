@@ -9,3 +9,6 @@ Patients with high-grade serous ovarian carcinoma (HGSOC) are virtually insensit
 Experimental design
 
 ![image](https://github.com/HenslerM/Lanickova_CCR2024/assets/150054548/719b3d8d-929a-44b5-94db-11a0f374913b)
+
+# Pre-processing of data GSE165897
+Script detailing the pre-processing of publicly available data GSE165897 is “Analysis_GSE165897.R” and takes as input the files GSE165897_UMIcounts_HGSOC.tsv and GSE165897_cellInfo_HGSOC.tsv.
